@@ -1,0 +1,1 @@
+print('welcome to 3mtt data science class')
